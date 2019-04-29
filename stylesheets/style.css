@@ -1,0 +1,232 @@
+/*
+background-grey: #F4F3F4;
+button-purple: #192592
+main-titles dark-grey: #2C303F;
+paragraph grey: #5b5e6d;
+nav grey: #5b5e6d;
+*/
+
+* {
+
+	font-family: calibri;
+}
+
+.slack-logo-nav {
+	position: fixed;
+	width: 100%;
+	background-color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    border-bottom: solid 1px #D8D8D8;
+    border-top: solid 1px #D8D8D8;
+    padding-left: 50px;
+
+}
+
+
+.nav-menu {
+	
+    display: flex;
+    flex-direction: row; 
+    text-decoration: none;
+    padding-right: 50px;
+
+}
+
+
+#Vos-espaces-de-travail {
+	text-decoration: none;
+	color: #BDBDBD;
+	border: solid 2px;
+	border-radius: 5px;
+	padding-left: 15px;
+	padding-right: 15px;
+	margin-bottom: 10px;
+	
+}
+
+
+
+li{
+	
+    display: flex; 
+    margin-right: 30px;
+    color: #BDBDBD;
+    padding-top: 10px;
+    
+
+}
+
+#header {
+	padding-top: 100px;
+    display: flex;
+	flex-wrap: nowrap;
+	flex-direction: row;
+
+}
+.home-main-img-container{
+
+	margin-top: 50px;
+
+}
+
+.home-landing-main-text{
+		
+    font-size: 20px;
+    color: gray;
+    padding-bottom: 80px;
+
+	
+}
+h1{
+	font-family: Times New Roman ;
+	font-size: 70px;
+	color: #2C303F;
+}
+
+#Connectez-vous{
+	font-size: 17px;
+}
+#button1{
+	background-color: #3200BC;
+	border-radius: 5px;
+	padding: 20px;
+	padding-left: 29px;
+	padding-right: 29px;
+	border: none;
+	color: white;
+
+}
+h2 {
+	font-family: Times New Roman ;
+	font-size: 35px;
+	color: #2C303F;
+}
+#button2{
+    background-color: white;
+	border-radius: 5px;
+	padding: 20px;
+	padding-left: 29px;
+	padding-right: 29px;
+	border: solid 1px;
+	color: #3200BC;
+
+}
+.other-companies-row{
+	
+	background-color: #F4F3F4;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 50px;
+
+}
+.logo-container{
+	display: flex;
+	flex-direction: row;
+    flex-wrap: wrap;
+	justify-content: space-around;
+	
+
+    
+}
+#logo1{
+    
+    margin-left: 2%;
+    margin-top: 3%;
+}
+#logo2{
+    
+	margin-left: 3%;
+	margin-top: 3%;
+}
+#logo3{
+    margin-left: 3%;	
+	margin-top: 3%;
+}
+#logo4{
+   
+	margin-top: 5%;
+}
+#logo5{
+   	
+	margin-top: 5%;
+}
+#logo6{
+    
+	margin-top: 5%;
+}
+.try-it-row{
+	border-bottom: solid 1px  #D8D8D8;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between; 
+    padding: 30px 50px 20px 50px;
+
+	 
+}
+h3{
+	font-family: Times New Roman;
+	color: #2C303F;
+}
+p{
+	color: gray;
+}
+
+#button3 {
+	background-color: #3200BC;
+	border-radius: 5px;
+	padding: 20px;
+	padding-left: 29px;
+	padding-right: 29px;
+	border: none;
+	color: white;
+	margin-top: 20px;
+
+}
+
+.sitemap-row{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+    padding-bottom: 50px;
+    
+}
+#divul{
+	margin-top: 50px;
+	display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.titre {
+	color: gray;
+}
+
+.sub-footer{
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    background-color: #F4F3F4;
+    color: #2C303F;
+    justify-content: space-between;
+}
+.sub-footerul{
+	display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    
+}
+.footeril{
+	color: gray;
+}
+#fr{
+	padding-left: 10px;
+	color: gray;
+}
+i {
+	padding-left: 10px;
+}
